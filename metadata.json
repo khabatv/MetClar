@@ -1,0 +1,6 @@
+{
+  "name": "MetClar",
+  "description": "An interactive system to post-process, validate, de-duplicate, and correct untargeted computational metabolomics annotation results based on a documented expert challenge ontology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
