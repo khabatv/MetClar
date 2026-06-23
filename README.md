@@ -6,7 +6,7 @@ By applying a curated expert challenge ontology to computational hits (such as t
 
 ---
 
-## 🔬 Core Features
+## Core Features
 
 *   **Interactive Decision Studio**: Inspect single peaks, view ranks, and review pre-parsed precursor data (m/z, RT, formula). Overrule or validate annotations with real-time heuristic scoring feedback.
 *   **Physical Integrity Models**: Detect and rectify 11 systematic metabolomics challenges including in-source co-elution alignments, redundant adducts, biological decoy structures, and Retip RT boundary mismatches.
@@ -15,13 +15,12 @@ By applying a curated expert challenge ontology to computational hits (such as t
 
 ---
 
-## 🏢 Author & Affiliation
+##  Author & Affiliation
 
 This software was developed and is maintained by:
 
 **Khabat Vahabi**  
 [Leibniz Institute for Horticultural Sciences (IGZ)](https://www.igzev.de)  
-*Theodor-Echtermeyer-Weg 1, 14979 Großbeeren, Germany*
 
 *   **Tel:** +49 3370178228
 *   **Email:** [vahabi@igzev.de](mailto:vahabi@igzev.de)
@@ -29,7 +28,7 @@ This software was developed and is maintained by:
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Prerequisites
 *   [Node.js](https://nodejs.org) (v18 or higher recommended)
